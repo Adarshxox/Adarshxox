@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Adarsh!</h1>
 
-### 🐍 Python Full Stack Developer | Django | React | Next.js
+<h3 align="center">🐍 Python Full Stack Developer | Django | React | Next.js</h3>
 
 <p align="center">
   <a href="https://adarsh-portfolio-sable.vercel.app/">

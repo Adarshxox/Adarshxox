@@ -99,29 +99,34 @@ I'm Adarsh, a Python Full Stack Developer from Kerala, India, passionate about b
 
 ---
 
-## 📊 GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarshxox&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarshxox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshxox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
+<h2 align="center">🔥 Contribution Streak</h2>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshxox&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Adarshxox&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity Graph
+<h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <a href="https://github.com/Adarshxox">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshxox&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshxox&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
-### 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarshxox&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adarshxox&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarshxox&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---

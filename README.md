@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Adarsh!
+<h1 align="center">👋 Hey, I'm Adarsh!</h1>
 
 ### 🐍 Python Full Stack Developer | Django | React | Next.js
 

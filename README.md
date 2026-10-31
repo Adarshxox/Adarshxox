@@ -1,94 +1,158 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate Python Full-Stack Developer from India</h3>
+# 👋 Hey, I'm Adarsh!
+
+### 🐍 Python Full Stack Developer | Django | React | Next.js
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshxox&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/speedyrogue86" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/speedyrogue86?logo=twitter&style=flat&color=1DA1F2" alt="speedyrogue86" />
+  <a href="https://adarsh-portfolio-sable.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:adarshb1999.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarshbalan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarshxox&theme=radical&margin-w=15&column=7" alt="adarshxox trophies" />
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Building+Web+Applications;Django+%7C+React+%7C+Next.js;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
-
-<br/>
-
-### 👨‍💻 About Me
-
-- 🌱 I’m currently building with **Next.js, TypeScript, Tailwind CSS, and Docker**
-- 🔭 I recently developed a modern showcase web app for **PlanetTreatz**
-- 👨‍💻 All of my projects are available on my [Portfolio Website](https://adarsh-portfolio-sable.vercel.app/)
-- 🎮 When I'm not coding, you can find me streaming or playing **Valorant** and **Forza Horizon 5**
-- 💬 Ask me about **Python, Django, React, REST APIs, and Prompt Engineering**
-- 📫 How to reach me: **adarshb1999.tech@gmail.com**
-- 📄 Know about my experiences: [View my Resume](https://drive.google.com/file/d/1OiqxIbnyefRIAAZt2fQ-xOwoWbhn04tZ/view?usp=sharing)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 About Me
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **PlanetTreatz Platform** | Modern commercial showcase website built for a local snack brand in Kerala. | Next.js, TypeScript, Tailwind CSS |
-| **E-Commerce Application** | Full-stack shopping cart system with secure authentication and API endpoints. | Python, Django, DRF |
-| **Contact Management System** | Robust backend application for managing user records and student registrations. | Django, Python, SQLite/PostgreSQL |
+I'm Adarsh, a Python Full Stack Developer from Kerala, India, passionate about building web applications and solving real-world problems through technology.
+
+- 🔭 Interested in building full-stack web applications and REST APIs.
+- 🌱 Currently exploring C# and strengthening my Python development skills.
+- 💻 Experienced with Django, Django REST Framework, React and Next.js.
+- 🔐 Interested in authentication, API development and database design.
+- 🛠️ Enjoy experimenting with new technologies and building practical projects.
+- 🌐 Explore my projects: [adarsh-portfolio-sable.vercel.app](https://adarsh-portfolio-sable.vercel.app/)
+- 📫 Reach me at: **adarshb1999.tech@gmail.com**
 
 ---
 
-### 📊 GitHub Analytics
+## 🧰 Tech Stack & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,firebase,linux,vscode,figma" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>🛒 CartNest</h3>
+<p>A Django-powered e-commerce application featuring product browsing, search, shopping cart, checkout, authentication and order tracking.</p>
+<p><b>Tech:</b> Python · Django · SQLite · Razorpay</p>
+<a href="https://github.com/Adarshxox">View on GitHub →</a>
+</td>
+<td width="50%">
+<h3>🔗 URL Shortener</h3>
+<p>A lightweight URL shortening application with link generation and support for multiple storage approaches.</p>
+<p><b>Tech:</b> Python · Django · SQLite · PostgreSQL · Docker</p>
+<a href="https://github.com/Adarshxox/url-shortener">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🌦️ Weather Application</h3>
+<p>A weather application that retrieves real-time weather information through an external API.</p>
+<p><b>Tech:</b> Python · Django · REST API · HTML · CSS</p>
+<a href="https://github.com/Adarshxox/weatherapp_django_api">View Repository →</a>
+</td>
+<td width="50%">
+<h3>📝 Todo Django</h3>
+<p>A productivity application with user authentication, task categories and password recovery functionality.</p>
+<p><b>Tech:</b> Python · Django · SQLite</p>
+<a href="https://github.com/Adarshxox/Todo_Django">View Repository →</a>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshxox&show_icons=true&theme=radical&rank_icon=github" alt="Adarsh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshxox&theme=radical" alt="Adarsh's Streak" width="48%" />
+  <a href="https://github.com/Adarshxox?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarshxox&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshxox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshxox&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="50%" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshxox&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshxox&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Adarsh's Contribution Graph" width="100%" />
+  <a href="https://github.com/Adarshxox">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshxox&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  </a>
 </p>
 
----
-
-### 💻 Languages and Tools
-
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🤝 Connect with me
+### 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://linkedin.com/in/adarshbalan214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshbalan214" height="30" width="40" /></a>
-<a href="https://twitter.com/speedyrogue86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speedyrogue86" height="30" width="40" /></a>
-<a href="https://dev.to/adarshbalan214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adarshbalan214" height="30" width="40" /></a>
-<a href="https://medium.com/@adarshbalan214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adarshbalan214" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshbxox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshbxox" height="30" width="40" /></a>
-<a href="https://dribbble.com/adarshxox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adarshxox" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarshxox&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Adarshxox">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarshbalan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/speedyrogue86">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://dev.to/adarshbalan214">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarshxox&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>💡 "Building, learning, breaking things, and building them better."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>

@@ -112,7 +112,7 @@ I'm Adarsh, a Python Full Stack Developer from Kerala, India, passionate about b
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="70%" src="profile/streak.svg" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Adarshxox&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -126,13 +126,6 @@ I'm Adarsh, a Python Full Stack Developer from Kerala, India, passionate about b
 </picture>
 <!-- END ACTIVITY-GRAPH -->
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adarshxox&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 ---
 
 ## 🌐 Connect With Me
